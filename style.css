@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'chowfun'; /* Le nom que tu veux utiliser dans ton CSS */
+  src: url('/fonts/chowfun.ttf') format('truetype'); /* Chemin vers le fichier */
+  font-weight: normal;
+  font-style: normal;
+}
+
+header {
+  font-family: 
+}
