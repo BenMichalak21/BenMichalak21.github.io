@@ -14,3 +14,11 @@ nav {
   display: flex;
   justify-content: space-around;
 }
+
+nav a {
+  text-decoration: none;
+}
+
+nav ul {
+  list-style-type: none;
+}
