@@ -9,3 +9,7 @@ h1 {
   font-family: 'chowfun', 'calibri';
   text-align: center;
 }
+
+nav {
+  display: flex;
+}
