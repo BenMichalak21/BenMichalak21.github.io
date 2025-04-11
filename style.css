@@ -10,15 +10,16 @@ h1 {
   text-align: center;
 }
 
+nav a {
+  display: block;
+  text-decoration: none;
+}
+
 nav {
   display: flex;
   justify-content: space-around;
 }
 
-nav a {
-  text-decoration: none;
-}
-
-nav ul {
+nav li {
   list-style-type: none;
 }
