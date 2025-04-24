@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'chowfun'; /* Le nom que tu veux utiliser dans ton CSS */
+  src: url('Fonts/CHOWFUN_.ttf') format('truetype'); /* Chemin vers le fichier */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-Light'; /* Le nom que tu veux utiliser dans ton CSS */
+  src: url('Fonts/Roboto-Light.ttf') format('truetype'); /* Chemin vers le fichier */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto-Bold'; /* Le nom que tu veux utiliser dans ton CSS */
+  src: url('Fonts/Roboto-Bold.ttf') format('truetype'); /* Chemin vers le fichier */
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: 'chowfun', 'calibri';
+  text-align: center;
+  font-size: 3.5em;
+  color: yellow;
+  background-color: black;
+  margin: 0;
+  padding-bottom: 1.25%;
+}
+
+h1 span {
+  color: orange;
+}
+
+.nav a {
+  display: block;
+  text-decoration: none;
+  font-size: 1.5em;
+  font-family: 'Roboto-Light';
+  padding: 10px 50px 10px 50px;
+  color: white;
+  font-style: normal;
+}
+
+.nav a:hover {
+  font-style: italic;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+  border-top: 5px yellow solid;
+  margin: 0;
+}
+
+.nav li {
+  list-style-type: none;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Roboto-Bold';
+  margin: 0;
+  margin: 1.25% 0 1.25% 0;
+}
+
+#Klaus {
+  width: 37%;
+  height: 40%;
+  margin: 0;
+  padding: 0;
+  margin-left: 12%;
+}
+
+#Fondation {
+  font-size: 1.4em;
+  font-weight: 350;
+  font-family: 'Roboto-Light';
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  margin-left: 2%;
+  margin-right: 11%;
+  line-height: 1.8em;
+}
+
+#part1 {
+  display: flex;
+  margin-bottom: 1.5%;
+}
+
+.Logo_AWTD2 {
+  display: block;
+  margin: 0 auto;
+  width: 2.5%;
+  height: 2.5%;
+}
+
+.text_page2 {
+  font-size: 1.4em;
+  font-weight: 350;
+  font-family: 'Roboto-Light';
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  line-height: 1.8em;
+  margin: 3% 11% 3% 11%;
+
+}
+
+#lien_site {
+  display: inline-block;
+  margin-left: 1%;
+}
