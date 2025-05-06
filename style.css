@@ -241,15 +241,14 @@ h1 span {
 }
 
 .text_page2 {
-  font-size: 1.4em;
+  font-size: 1.2em;
   font-weight: 350;
   font-family: 'Roboto-Light';
   margin: 0;
   padding: 0;
   text-align: justify;
   line-height: 1.7em;
-  margin: 0.5% 0% 5% 10%;
-  padding-right: 4%;
+  padding-right: 2%;
 
 }
 
@@ -275,10 +274,9 @@ h1 span {
 
 .photos_kungfu img {
   display: block;
-  max-width: 100%;
-  height: auto;
-  margin: 1% 0% 1% 0%;
-  padding-right: 60%;
+  max-width: 88%;
+  max-height: 88%;
+  margin: 0% 0% 2% 0%;
 }
 
 .sous_sous_titre {
