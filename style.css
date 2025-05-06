@@ -227,7 +227,6 @@ h1 span {
   display: block;
   margin: 0 auto;
   width: 2.5%;
-  height: 2.5%;
 }
 
 .text_page {
@@ -250,8 +249,7 @@ h1 span {
   text-align: justify;
   line-height: 1.7em;
   margin: 0.5% 0% 5% 10%;
-  padding-right: 12%;
-  padding-bottom: 3%;
+  padding-right: 4%;
 
 }
 
@@ -277,7 +275,7 @@ h1 span {
 
 .photos_kungfu img {
   display: block;
-  max-width: 17vw;
+  max-width: 100%;
   height: auto;
   margin: 1% 0% 1% 0%;
   padding-right: 60%;
